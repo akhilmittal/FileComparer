@@ -178,6 +178,10 @@
     </VSCTCompile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="diff_window.png" />
+    <Content Include="file.png" />
+    <Content Include="file_dialog.png" />
+    <Content Include="file_diff.png" />
     <Content Include="Resources\compare_icon.png" />
     <Content Include="Resources\compare_preview.png" />
     <Content Include="source.extension.ico">
