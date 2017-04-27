@@ -2,7 +2,7 @@
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
     <Identity Id="edc18cad-2422-45f1-908a-7c2fc5ea928f" Version="1.0" Language="en-US" Publisher="Akhil Mittal" />
-    <DisplayName>FileComparer</DisplayName>
+    <DisplayName>FileComparer2017</DisplayName>
     <Description xml:space="preserve">Compare files in Visual Studio 2017</Description>
     <License>Resources\LICENSE</License>
     <Icon>Resources\compare_icon.png</Icon>

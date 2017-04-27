@@ -8,7 +8,7 @@ namespace FileComparer
   static class Vsix
   {
     public const string Id = "edc18cad-2422-45f1-908a-7c2fc5ea928f";
-    public const string Name = "FileComparer";
+    public const string Name = "FileComparer2017";
     public const string Description = @"Compare files in Visual Studio 2017";
     public const string Language = "en-US";
     public const string Version = "1.0";
